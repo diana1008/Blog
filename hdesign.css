@@ -1,0 +1,21 @@
+.box{
+	height:100%;
+	width:100%;
+	border:2px solid black;
+}
+.box.box1{
+	height:40%;
+	width:100%;
+	border:2px solid black;
+}
+.box .box2{
+	height:80%;
+	width:100%;
+	border:2px solid black;
+}
+.box2 .box21{
+	height:100%;
+	width:50%;
+	border:2px solid black;
+
+}

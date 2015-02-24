@@ -1,0 +1,59 @@
+.heading{
+	margin-left:45%;
+	color:white;
+	font-size:30px;
+	font-family:Garamond;
+}
+
+.box{
+	height:100%;
+	width:100%;
+}
+.box1{
+	height:10%;
+	width:100%;
+	border:2px solid black;
+	background-color:black;
+}
+.box2{
+	height:90%;
+	width:100%;
+	border:2px solid white;
+	background-image:url(https://c2.staticflickr.com/2/1334/5114300676_7de7010831.jpg);
+}
+.box21{
+	height:100%;
+	width: 50%;
+	
+}
+.box22{
+	height:20%;
+	width:30%;
+	margin-left: 60%;
+	margin-right:auto;
+	margin-top:40%;
+    border-radius:5px;
+	border:2px solid black;
+	background-color:#99FF66;
+}
+.button{
+	height:20%;
+	width:15%;
+	margin-top:20%;
+	float:right;
+	margin-right:30%;
+	border:2px solid black;
+	border-radius:5px;
+	background-color:#99FF66;
+}
+.Diana{
+	margin-right:10%;
+	font-size:50px;
+	margin-left:15%;
+	text-decoration:none;
+}
+.Aaron{
+	margin-left:15%;
+	font-size:50px;
+	text-decoration:none;
+}
